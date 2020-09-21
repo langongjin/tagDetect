@@ -10,6 +10,7 @@ Before you run this code, you have to make sure:
 If you have some problems about the library, please fix it.
 
 If your computer has opencv 2, you can run the code colordetect1_60.py
+
 If your computer has opencv 3/4, you can run the code colordetect1_60_cv4.py
 
 The code was tested on Macbook computer. 
